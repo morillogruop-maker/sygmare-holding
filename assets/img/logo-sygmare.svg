@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" role="img" aria-labelledby="title desc">
+  <title id="title">Sygmare Holding logotipo</title>
+  <desc id="desc">Monograma futurista dorado con el nombre de la empresa sobre fondo oscuro.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5d06f" />
+      <stop offset="45%" stop-color="#dba73a" />
+      <stop offset="100%" stop-color="#fef2b0" />
+    </linearGradient>
+    <linearGradient id="halo" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(245, 208, 111, 0.08)" />
+      <stop offset="50%" stop-color="rgba(219, 167, 58, 0.35)" />
+      <stop offset="100%" stop-color="rgba(254, 242, 176, 0.08)" />
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="159" height="47" rx="18" fill="#04070f" stroke="url(#halo)" stroke-width="1" />
+  <g transform="translate(16 12)">
+    <path d="M16 0c8.836 0 16 7.164 16 16s-7.164 16-16 16S0 24.836 0 16 7.164 0 16 0Zm0 5.5c-5.799 0-10.5 4.701-10.5 10.5 0 4.49 2.728 8.342 6.648 9.937l-.462-6.607 6.767-7.29a1.2 1.2 0 0 1 1.834 1.547l-5.316 5.73 6.449.435c1.152.078 1.667 1.478.86 2.29l-6.535 6.54c.606.083 1.224.128 1.855.128 5.799 0 10.5-4.701 10.5-10.5S21.799 5.5 16 5.5Z" fill="url(#gold)" />
+    <path d="M36 5.5 43.8 21l7.8-15.5h6.3v21h-4.8V11.5l-8.3 15.5h-1.9l-8.3-15.5V26.5H30V5.5h6Z" fill="url(#gold)" />
+  </g>
+  <text x="86" y="29" font-family="'Inter', 'Segoe UI', sans-serif" font-size="14" font-weight="600" letter-spacing="0.12em" fill="#f5d06f" text-anchor="start">SYGMARE HOLDING</text>
+</svg>
